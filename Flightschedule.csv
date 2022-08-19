@@ -1,0 +1,64 @@
+,Passdepat,Passarrival,arrival,cityEntre,depart,cityArrive,adi,airparrive,TimeZone,Sheng,flightnumber,Company,Arrival Estimated
+3,1,1,DE,Toronto,CA,Frankfurt,A,FRA,Europe/Berlin,True,840,AC,2022-08-14T06:20:00+02:00
+6,M,1,DE,Vancouver,CA,Frankfurt,A,FRA,Europe/Berlin,True,846,AC,2022-08-14T08:05:00+02:00
+5,,1,DE,Montreal,CA,Frankfurt,A,FRA,Europe/Berlin,True,844,AC,2022-08-14T08:10:00+02:00
+0,0,2,DE,Dallas-Fort Worth,US,Frankfurt,A,FRA,Europe/Berlin,True,70,AA,2022-08-14T08:45:00+02:00
+1,0,2,DE,Dallas-Fort Worth,US,Frankfurt,A,FRA,Europe/Berlin,True,70,AA,2022-08-14T08:45:00+02:00
+2,0,2,DE,Dallas-Fort Worth,US,Frankfurt,A,FRA,Europe/Berlin,True,70,AA,2022-08-14T08:45:00+02:00
+17,2G,2,DE,Paris,FR,Frankfurt,A,FRA,Europe/Berlin,True,1818,AF,2022-08-14T09:20:00+02:00
+16,2G,2,DE,Paris,FR,Frankfurt,A,FRA,Europe/Berlin,True,1818,AF,2022-08-14T09:20:00+02:00
+15,2G,2,DE,Paris,FR,Frankfurt,A,FRA,Europe/Berlin,True,1618,AF,2022-08-14T09:20:00+02:00
+18,I,2,DE,Algier,DZ,Frankfurt,A,FRA,Europe/Berlin,True,2070,AH,2022-08-14T09:20:00+02:00
+40,,1,DE,Heraklion,GR,Frankfurt,A,FRA,Europe/Berlin,True,430,A3,2022-08-14T10:15:00+02:00
+41,,1,DE,Heraklion,GR,Frankfurt,A,FRA,Europe/Berlin,True,430,A3,2022-08-14T10:15:00+02:00
+42,,1,DE,Heraklion,GR,Frankfurt,A,FRA,Europe/Berlin,True,430,A3,2022-08-14T10:15:00+02:00
+43,,1,DE,Rhodos,GR,Frankfurt,A,FRA,Europe/Berlin,True,480,A3,2022-08-14T10:15:00+02:00
+7,,1,DE,Calgary,CA,Frankfurt,A,FRA,Europe/Berlin,True,848,AC,2022-08-14T10:55:00+02:00
+4,1,1,DE,Toronto,CA,Frankfurt,A,FRA,Europe/Berlin,True,842,AC,2022-08-14T11:10:00+02:00
+10,,,DE,Halifax,CA,Frankfurt,A,FRA,Europe/Berlin,True,7270,AC,2022-08-14T11:25:00+02:00
+9,,,DE,Halifax,CA,Frankfurt,A,FRA,Europe/Berlin,True,7210,AC,2022-08-14T11:25:00+02:00
+44,,1,DE,Rhodos,GR,Frankfurt,A,FRA,Europe/Berlin,True,480,A3,2022-08-14T13:45:00+02:00
+46,,1,DE,Thessaloniki,GR,Frankfurt,A,FRA,Europe/Berlin,True,530,A3,2022-08-14T13:45:00+02:00
+47,,1,DE,Thessaloniki,GR,Frankfurt,A,FRA,Europe/Berlin,True,530,A3,2022-08-14T13:45:00+02:00
+45,,1,DE,Thessaloniki,GR,Frankfurt,A,FRA,Europe/Berlin,True,530,A3,2022-08-14T13:45:00+02:00
+49,,1,DE,Thessaloniki,GR,Frankfurt,A,FRA,Europe/Berlin,True,530,A3,2022-08-14T13:45:00+02:00
+48,,1,DE,Thessaloniki,GR,Frankfurt,A,FRA,Europe/Berlin,True,530,A3,2022-08-14T13:45:00+02:00
+11,2G,2,DE,Paris,FR,Frankfurt,A,FRA,Europe/Berlin,True,1018,AF,2022-08-14T14:15:00+02:00
+25,,2,DE,Helsinki,FI,Frankfurt,A,FRA,Europe/Berlin,True,1411,AY,2022-08-14T14:20:00+02:00
+26,,2,DE,Helsinki,FI,Frankfurt,A,FRA,Europe/Berlin,True,1411,AY,2022-08-14T14:20:00+02:00
+27,,2,DE,Helsinki,FI,Frankfurt,A,FRA,Europe/Berlin,True,1415,AY,2022-08-14T14:20:00+02:00
+28,,2,DE,Helsinki,FI,Frankfurt,A,FRA,Europe/Berlin,True,1415,AY,2022-08-14T14:20:00+02:00
+13,2G,2,DE,Paris,FR,Frankfurt,A,FRA,Europe/Berlin,True,1518,AF,2022-08-14T16:55:00+02:00
+55,5,2,DE,London,GB,Frankfurt,A,FRA,Europe/Berlin,True,904,BA,2022-08-14T17:25:00+02:00
+36,,2,DE,Milan,IT,Frankfurt,A,FRA,Europe/Berlin,True,410,AZ,2022-08-14T17:30:00+02:00
+39,,1,DE,Heraklion,GR,Frankfurt,A,FRA,Europe/Berlin,True,430,A3,2022-08-14T17:30:00+02:00
+38,,1,DE,Heraklion,GR,Frankfurt,A,FRA,Europe/Berlin,True,430,A3,2022-08-14T17:30:00+02:00
+35,,2,DE,Milan,IT,Frankfurt,A,FRA,Europe/Berlin,True,410,AZ,2022-08-14T17:30:00+02:00
+37,,1,DE,Heraklion,GR,Frankfurt,A,FRA,Europe/Berlin,True,430,A3,2022-08-14T17:30:00+02:00
+60,5,2,DE,London,GB,Frankfurt,A,FRA,Europe/Berlin,True,904,BA,2022-08-14T18:00:00+02:00
+59,5,2,DE,London,GB,Frankfurt,A,FRA,Europe/Berlin,True,904,BA,2022-08-14T18:00:00+02:00
+62,5,2,DE,London,GB,Frankfurt,A,FRA,Europe/Berlin,True,908,BA,2022-08-14T18:00:00+02:00
+61,5,2,DE,London,GB,Frankfurt,A,FRA,Europe/Berlin,True,908,BA,2022-08-14T18:00:00+02:00
+33,,2,DE,Milan,IT,Frankfurt,A,FRA,Europe/Berlin,True,410,AZ,2022-08-14T18:30:00+02:00
+34,,2,DE,Milan,IT,Frankfurt,A,FRA,Europe/Berlin,True,410,AZ,2022-08-14T18:30:00+02:00
+29,,2,DE,Helsinki,FI,Frankfurt,A,FRA,Europe/Berlin,True,1415,AY,2022-08-14T18:30:00+02:00
+31,,2,DE,Helsinki,FI,Frankfurt,A,FRA,Europe/Berlin,True,1415,AY,2022-08-14T18:30:00+02:00
+32,,2,DE,Helsinki,FI,Frankfurt,A,FRA,Europe/Berlin,True,1415,AY,2022-08-14T18:30:00+02:00
+30,,2,DE,Helsinki,FI,Frankfurt,A,FRA,Europe/Berlin,True,1415,AY,2022-08-14T18:30:00+02:00
+24,,2,DE,Helsinki,FI,Frankfurt,A,FRA,Europe/Berlin,True,1411,AY,2022-08-14T18:35:00+02:00
+23,,2,DE,Helsinki,FI,Frankfurt,A,FRA,Europe/Berlin,True,1411,AY,2022-08-14T18:35:00+02:00
+22,,2,DE,El Aroui,MA,Frankfurt,A,FRA,Europe/Berlin,True,1694,AT,2022-08-14T18:35:00+02:00
+21,1,2,DE,Casablanca,MA,Frankfurt,A,FRA,Europe/Berlin,True,810,AT,2022-08-14T18:35:00+02:00
+20,3,1,DE,Delhi,IN,Frankfurt,A,FRA,Europe/Berlin,True,121,AI,2022-08-14T18:35:00+02:00
+19,,2,DE,Oran,DZ,Frankfurt,A,FRA,Europe/Berlin,True,2074,AH,2022-08-14T18:35:00+02:00
+12,2G,2,DE,Paris,FR,Frankfurt,A,FRA,Europe/Berlin,True,1518,AF,2022-08-14T18:40:00+02:00
+14,2G,2,DE,Paris,FR,Frankfurt,A,FRA,Europe/Berlin,True,1618,AF,2022-08-14T19:30:00+02:00
+58,5,2,DE,London,GB,Frankfurt,A,FRA,Europe/Berlin,True,904,BA,2022-08-14T21:45:00+02:00
+56,5,2,DE,London,GB,Frankfurt,A,FRA,Europe/Berlin,True,904,BA,2022-08-14T21:45:00+02:00
+57,5,2,DE,London,GB,Frankfurt,A,FRA,Europe/Berlin,True,904,BA,2022-08-14T21:45:00+02:00
+8,,,DE,Halifax,CA,Frankfurt,A,FRA,Europe/Berlin,True,7210,AC,2022-08-14T22:05:00+02:00
+53,,1,DE,Athens,GR,Frankfurt,A,FRA,Europe/Berlin,True,830,A3,2022-08-14T22:25:00+02:00
+52,,1,DE,Athens,GR,Frankfurt,A,FRA,Europe/Berlin,True,830,A3,2022-08-14T22:25:00+02:00
+51,,1,DE,Athens,GR,Frankfurt,A,FRA,Europe/Berlin,True,830,A3,2022-08-14T22:25:00+02:00
+54,5,2,DE,London,GB,Frankfurt,A,FRA,Europe/Berlin,True,902,BA,2022-08-14T22:25:00+02:00
+50,,1,DE,Athens,GR,Frankfurt,A,FRA,Europe/Berlin,True,830,A3,2022-08-14T22:25:00+02:00

@@ -1,0 +1,6 @@
+,durationn,serviceType,arrivaliata,arrivalgate,arrivalschedule,arrivalestimated,plane,delay,Status Arrival,ICAO,Shengen,city de départ,Flight number,company code
+0,275,J,LPA,1,2022-08-14T22:10:00+02:00,2022-08-14T21:51:00+02:00,32B,0 days 00:19:00,Landed,GCLP,False,Gran Canaria,303,DLH
+1,100,J,LHR,1,2022-08-14T22:10:00+02:00,2022-08-14T22:52:00+02:00,Airbus A321-100/200,0 days 00:42:00,In Air,EGLL,True,London,919,DLH
+2,245,J,FNC,1,2022-08-14T22:20:00+02:00,2022-08-14T22:09:00+02:00,32N,0 days 00:11:00,Departed,LPMA,True,Funchal,703,DLH
+3,185,J,LIS,1,2022-08-14T22:20:00+02:00,2022-08-14T22:21:00+02:00,Airbus A320neo,0 days 00:01:00,Landed,LPPT,True,Lisbon,572,DLH
+4,280,J,TFS,1,2022-08-14T22:30:00+02:00,2022-08-14T22:22:00+02:00,32A,0 days 00:08:00,Departed,GCTS,False,Tenerife,307,DLH

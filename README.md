@@ -10,17 +10,26 @@ Pour ouvrir le site en local il faut utilisé la commande : streamlit run Dash.p
 Pour exporter sur un site que l'on veut crée pour l'occasion faire ces différentes commandes : 
 
 git init
+
 heroku login
+
 heroku create sitedashhenri  (ATTENTION LE SITE DOIT ETRE LIEE ET SANS MAJUSCULE NI ACCENT ETC)
+
 git add .
+
 git commit -m "Le message que l'on veut affilie"
+
 git push heroku master
+
 heroku ps:scale web=1
 
 Pour update notre code sur notre site : 
 
 git add .
+
 git commit -m "Le message que l'on veut affilie"
+
 git push heroku master
+
 heroku ps:scale web=1
 
